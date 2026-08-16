@@ -1,3 +1,3 @@
-## CTrim
+# CTrim
 
 A simple lua module for trimming strings, written in C.
